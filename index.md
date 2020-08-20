@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+**Bürgerliche Revolution (1776-1815)**
 
-You can use the [editor on GitHub](https://github.com/Nikita-4234265645/Geschichte/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="Bild_14.jpg" width="100%" />
+_Der Marsch der Frauen auf Versailles 5. Okt. 1789 – 6. Okt. 1789_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="Bild_10.jpg" width="100%" />
+_Bonaparte die Alpen überschreitend_
 
-### Markdown
+<img src="Bild_15.jpg" width="100%" />
+_Bonaparte_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="Bild_2.jpg" width="100%" />
+<img src="Bild_3.jpg" width="100%" />
+_Die Hinrichtung des französischen Königs Ludwig XVI. am 21. Januar 1793_
 
-```markdown
-Syntax highlighted code block
+<img src="Bild_04.jpg" width="100%" />
+_Die Erklärung der Menschen- und Bürgerrechte in einer Darstellung von Jean-Jacques Le Barbier_
 
-# Header 1
-## Header 2
-### Header 3
+<img src="Bild_01.jpg" width="100%" />
+_Ohne speziellen Anlass oder Zeitangabe_
 
-- Bulleted
-- List
+<img src="Bild_16.jpg" width="100%" />
+_Französischer Angriff auf La Haye Saint 18. Juni 1815_
 
-1. Numbered
-2. List
+<img src="Bild_17.jpg" width="100%" />
+_14. Juli 1789 stürmten die Pariser die Festung Bastille_
 
-**Bold** and _Italic_ and `Code` text
+<img src="Bild 18.jpg" width="100%" />
+_Europa 1812_
 
-[Link](url) and ![Image](src)
-```
+<img src="Bild 19.jpg" width="100%" />
+_Abschied Napoleons von der Kaiserlichen Garde in Fontainebleau, Gemälde von Antoine Alphonse Montfort_
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nikita-4234265645/Geschichte/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<img src="Bild 20.jpg" width="100%" />
+_Napoleons Einzug in Berlin (November 1806)_
