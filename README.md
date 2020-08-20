@@ -67,4 +67,3 @@ _Die Karikatur "Der Denkerclub"_
 <img Frankfurter Wachensturm.jpg" width="65%" />
 _Ein Überfall auf die Hauptwache und die Konstablerwache in Frankfurt am Main (Frankfurter Wachsenturm)_
 
-
