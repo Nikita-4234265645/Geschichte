@@ -1,4 +1,4 @@
-## Bürgerliche Revolution
+**Bürgerliche Revolution**
 
 <img Bild_14.jpg" width="100%" />
 _Der Marsch der Frauen auf Versailles 5. Okt. 1789 – 6. Okt. 1789_
@@ -48,7 +48,7 @@ _Napoleons Einzug in Berlin (November 1806)_
 
 
 
-## Restauration
+**Restauration**
 
 <img Die jüngsten Kinder meiner Laune.jfif" width="100%" />
 _Ein Ausschnitt aus der Drame "Die jüngsten Kinder meiner Laune, 1793–1796"_
