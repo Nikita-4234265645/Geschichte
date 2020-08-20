@@ -72,4 +72,29 @@ _Ein Überfall auf die Hauptwache und die Konstablerwache in Frankfurt am Main (
 _Die Göttinger Sieben waren eine Gruppe von Göttinger Professoren_
 
 
+<img Heilige Allianz.jfif" width="65%" />
+_Heilige Allianz_
 
+
+<img Julirevolution.jpg" width="65%" />
+_Die Julirevolution von 1830 in Frankreich_
+
+
+<img Karte des Deutschen Bundes.jpg" width="65%" />
+_Karte des Deutschen Bundes_
+
+
+<img Karte Europa nach 1815.png" width="65%" />
+_Europa nach 1815_
+
+
+<img Wartburg Studentenzug 1817.jpg" width="65%" />
+_Wartburg Studentenzug 1817_
+
+
+<img Wiener Kongress.jpg" width="65%" />
+_Wiener Kongress (vom 18. September 1814 bis zum 9. Juni 1815)_
+
+
+<img Zug zum Hambacher Fest 1832.jpg" width="65%" />
+_Zug zum Hambacher Fest 1832_
