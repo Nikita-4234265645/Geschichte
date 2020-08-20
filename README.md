@@ -103,3 +103,30 @@ _Zug zum Hambacher Fest 1832_
 
 **Einigung von oben**
 **Deutsche Kaiserreich**
+
+
+<img 1200px-Map-deutsches-kaiserreich.png" width="65%" />
+_Karte des Deutschen Kaiserreiches_
+
+
+<img 300px-1879_Pape_Kaiserliche_Familie_in_Sanssouci_anagoria.jfif" width="65%" />
+_Familie zu dem Zeitpunkt_
+
+
+<img a2fe00b48475b22f031ffbc4b419a0fc.png" width="65%" />
+_Flagge des Deutschen Kaiserreiches_
+
+
+<img 800px-Parade_1894.jfif" width="65%" />
+_Militär des Reiches_
+
+
+<img 5-pfennig-j3.jpg" width="65%" />
+_5 Pfennig_
+
+
+<img default.jpg" width="65%" />
+_Uniformen des Militärs_
+
+
+<img Eine_Reise_in_das_Deutsche_Kaiserreich__ ... 918__-_YouTube_-_2015-12-16_12.43.51.png" width="65%" />
