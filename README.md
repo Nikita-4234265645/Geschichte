@@ -104,6 +104,67 @@ _Zug zum Hambacher Fest 1832_
 **Einigung von oben**
 
 
+<img 1. Aufhebung der Presszensur durch Ferdinand I. 1848.jfif" width="65%" />
+
+
+<img 2. Barrikadenkampf Alexanderplatz Berlin 1848.jpg" width="65%" />
+
+
+<img 3. Karikatur auf den Sturz von Louis Phillipe 1848.jpg" width="65%" />
+
+
+<img 4. Louis Napoléon Bonaparte als Staatspräsident 1848.jpg" width="65%" />
+
+
+<img 5. Ritt von Friedrich Wilhelm IV 1848.jpg" width="65%" />
+
+
+<img 6. Reichsgesetztblatt mit der Reichsverfassung.jpg" width="65%" />
+
+
+<img 7. Deutscher Bund Karte.png" width="65%" />
+
+
+<img 8. Gemälde über Robert Blum von August Hunger 1845-48.jpg" width="65%" />
+
+
+<img 9. Verfassungsdiagram für Reichsverfassung 1849.png" width="65%" />
+
+
+<img 10. Otto von Bismarck 1862.jpg" width="65%" />
+
+
+<img 11. Karte Deutsch Dänischer Krieg Gebietsveränderungen 1864.png" width="65%" />
+
+
+<img 12. Europa nach Deutschen Krieg 1867.png" width="65%" />
+
+
+<img 13. Übersicht über Verbündete von Preußen und Österreich.png" width="65%" />
+
+
+<img 14. Umgebungskarte der Schlacht bei Gitschin.jpg" width="65%" />
+
+
+<img 15. Organe des Norddeutschen Bundes und die Entwicklung bis zu dem Kaiserreich.png" width="65%" />
+
+
+<img 16. Norddeutscher Bund 1867-1871.png" width="65%" />
+
+
+<img 17. Europas Bevölkerung während des Norddeutschen Bundes 1870.png" width="65%" />
+
+
+<img 18. Gedenkstein für die Emser Depsche.jpg" width="65%" />
+
+
+<img 19. Napoléon III. im Gespräch mit Bismarck als preußischer Gefangener 1870.jpg" width="65%" />
+
+
+<img 20. Europa nach dem Deutsch-Französischen Krieg 1871.png" width="65%" />
+
+
+<img 21. Proklamierung des deutschen Kaiserreiches 18.1.1871.jpg" width="65%" />
 
 
 
