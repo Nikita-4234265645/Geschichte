@@ -102,6 +102,11 @@ _Zug zum Hambacher Fest 1832_
 
 
 **Einigung von oben**
+
+
+
+
+
 **Deutsche Kaiserreich**
 
 
@@ -130,3 +135,24 @@ _Uniformen des Militärs_
 
 
 <img Eine_Reise_in_das_Deutsche_Kaiserreich__ ... 918__-_YouTube_-_2015-12-16_12.43.51.png" width="65%" />
+_Hamburg in der Zeit_
+
+
+<img gfgf.w610.h610.fill.jpg" width="65%" />
+_Eine Muskete_
+
+
+<img E-Wartburg 1901 iNet.jpg" width="65%" />
+_Werbung für Motorfahrzeug_
+
+
+<img imagegroup.jpeg" width="65%" />
+_Eine Militär Parade_
+
+
+<img Kaiserreich.jpg" width="65%" />
+_Propaganda aus 1888_
+
+
+<img rrrrrrrrrrrrrrrrrrrrrrrrr.jpg" width="65%" />
+_Otto von Bismarck_
