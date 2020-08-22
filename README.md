@@ -89,7 +89,7 @@ _Ein deutscher Dramatiker, Schriftsteller und Librettist - Kotzenbue_
 
 <img src="Der Denkerclub (Karlsbader Beschlüsse).jpg" width="65%" />
 
-_Die Karikatur "Der Denkerclub"_
+_Die Karikatur Der Denkerclub_
 
 
 
