@@ -43,7 +43,7 @@ _Französischer Angriff auf La Haye Saint 18. Juni 1815_
 
 
 
-<img src="Bild_17.jpg" width="65%" />
+<img src="History-Juli-14-07-1789-Sturm-BM-Lifestyle-Vatican-City-jpg.jpg" width="65%" />
 
 _14. Juli 1789 stürmten die Pariser die Festung Bastille_
 
