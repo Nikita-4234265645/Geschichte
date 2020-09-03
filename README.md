@@ -153,87 +153,87 @@ _Zug zum Hambacher Fest 1832_
 
 
 <img src="1. Aufhebung der Presszensur durch Ferdinand I. 1848.jfif" width="65%" />
-
+_Aufhebung der Presszensur durch Ferdinand I. 1848_
 
 
 <img src="2. Barrikadenkampf Alexanderplatz Berlin 1848.jpg" width="65%" />
-
+_Barrikadenkampf Alexanderplatz Berlin 1848_
 
 
 <img src="3. Karikatur auf den Sturz von Louis Phillipe 1848.jpg" width="65%" />
-
+_Karikatur auf den Sturz von Louis Phillipe 1848_
 
 
 <img src="4. Louis Napoléon Bonaparte als Staatspräsident 1848.jpg" width="65%" />
-
+_Louis Napoléon Bonaparte als Staatspräsident 1848_
 
 
 <img src="5. Ritt von Friedrich Wilhelm IV 1848.jpg" width="65%" />
-
+_Ritt von Friedrich Wilhelm IV 1848_
 
 
 <img src="6. Reichsgesetztblatt mit der Reichsverfassung.jpg" width="65%" />
-
+_Reichsgesetztblatt mit der Reichsverfassung_
 
 
 <img src="7. Deutscher Bund Karte.png" width="65%" />
-
+_Deutscher Bund Karte_
 
 
 <img src="8. Gemälde über Robert Blum von August Hunger 1845-48.jpg" width="65%" />
-
+_Gemälde über Robert Blum von August Hunger 1845-48_
 
 
 <img src="9. Verfassungsdiagram für Reichsverfassung 1849.png" width="65%" />
-
+_Verfassungsdiagram für Reichsverfassung 1849_
 
 
 <img src="10. Otto von Bismarck 1862.jpg" width="65%" />
-
+_Otto von Bismarck 1862_
 
 
 <img src="11. Karte Deutsch Dänischer Krieg Gebietsveränderungen 1864.png" width="65%" />
-
+_Karte Deutsch Dänischer Krieg Gebietsveränderungen 1864_
 
 
 <img src="12. Europa nach Deutschen Krieg 1867.png" width="65%" />
-
+_Europa nach Deutschen Krieg 1867_
 
 
 <img src="13. Übersicht über Verbündete von Preußen und Österreich.png" width="65%" />
-
+_Übersicht über Verbündete von Preußen und Österreich_
 
 
 <img src="14. Umgebungskarte der Schlacht bei Gitschin.jpg" width="65%" />
-
+_Umgebungskarte der Schlacht bei Gitschin_
 
 
 <img src="15. Organe des Norddeutschen Bundes und die Entwicklung bis zu dem Kaiserreich.png" width="65%" />
-
+_Organe des Norddeutschen Bundes und die Entwicklung bis zu dem Kaiserreich_
 
 
 <img src="16. Norddeutscher Bund 1867-1871.png" width="65%" />
-
+_Norddeutscher Bund 1867-1871_
 
 
 <img src="17. Europas Bevölkerung während des Norddeutschen Bundes 1870.png" width="65%" />
-
+_Europas Bevölkerung während des Norddeutschen Bundes 1870_
 
 
 <img src="18. Gedenkstein für die Emser Depsche.jpg" width="65%" />
-
+_Gedenkstein für die Emser Depsche_
 
 
 <img src="19. Napoléon III. im Gespräch mit Bismarck als preußischer Gefangener 1870.jpg" width="65%" />
-
+_Napoléon III. im Gespräch mit Bismarck als preußischer Gefangener 1870_
 
 
 <img src="20. Europa nach dem Deutsch-Französischen Krieg 1871.png" width="65%" />
-
+_Europa nach dem Deutsch-Französischen Krieg 1871_
 
 
 <img src="21. Proklamierung des deutschen Kaiserreiches 18.1.1871.jpg" width="65%" />
-
+_Proklamierung des deutschen Kaiserreiches 18.1.1871_
 
 
 
